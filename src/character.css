@@ -1,0 +1,20 @@
+.hero-content {
+    border: solid 5px white;
+    padding: 30px;
+    
+}
+
+.hero-content-holder {
+    padding: 30px;
+    padding-top: 0;
+}
+
+.hero-img {
+    border: solid 5px white;
+}
+.hero-img-holder {
+    margin-right: 0px;
+}
+.hero-description {
+    overflow: auto;
+}
